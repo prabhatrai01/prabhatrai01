@@ -28,6 +28,9 @@
 
 ## 🛠️ Languages and Tools
 
+
+<h2 align="center">🛠️ Languages and Tools</h2>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode" />
 </p>
@@ -38,21 +41,29 @@
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+</p>
+
+
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=prabh atrai01&show_icons=true&theme=dark&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabh atrai01&layout=compact&theme=dark&hide_border=true" />
-
-</div>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=prabh atrai01&theme=dark&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=prabhatrai01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatrai01&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="60%" src="https://streak-stats.demolab.com?user=prabhatrai01&theme=tokyonight&hide_border=true" />
 
 </div>
 
